@@ -1,6 +1,6 @@
-# Playing with Kafka
+# Playing with Kafka
 
-## Introduction
+## Introduction
 I just wanted to play with Kafka, you know.
 
 ## Installation and Setup Instructions
